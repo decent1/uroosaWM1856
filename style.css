@@ -1,0 +1,258 @@
+body {
+  overflow-x: hidden; /* Hide scrollbars */
+}
+
+.backgroundcolor{
+  background-color: whitesmoke;
+}
+header{
+background-color: royalblue;
+
+}
+
+.flex1{
+  display:flex;
+  justify-content: center;
+}
+.list{ 
+  display: inline-block;
+  padding: 10px;
+  margin-top: 10px;
+}
+.button{
+  padding: 10px;
+  font-size: 15px;
+  width: 40px;
+  height: 50px;
+  
+}
+
+.mr-30 li{
+  margin-left: 10px;
+  padding-left: 20px;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+
+.flex{
+  display: flex;
+  justify-content: space-around;
+}
+
+.nav-item a:hover{
+  background-color: #316dc3;
+  border-radius: 30px;
+}
+
+.millions{
+  margin-top: 10px;
+  color: aliceblue;
+  font-size: 20px;
+}
+
+#carouselExampleInterval{
+  width: 100%;
+}
+.d-block{
+  height: 500px;
+}
+.headline{
+  margin: 10px 20px;
+  display: flex;
+  justify-content: center;
+  padding-top: 5px;   
+  background-color: cornflowerblue;
+  color: white;
+}
+.center{
+ 
+  background-color: whitesmoke;
+  text-align: center;
+  margin: 5px;
+}
+.text{
+  width: 2000px;
+  margin: 20px 150px;
+  text-align: justify;
+  font-size: 20px;
+  
+  
+}
+.Blue{
+  color: #316dc3;
+}
+.green{
+  color: green;
+}
+.clrng{
+  color: greenyellow;
+  font-size: 20px;
+  font-weight: bolder;
+}
+.background{
+  background-color: #316dc3 ;
+}
+.padding{
+padding: 100px 50px;
+}
+.big{
+  font-size: 70px;
+  color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+}
+.size{
+  font-size: 20px;
+ font-weight: bolder;
+  color: aliceblue;
+  font-family: 'Times New Roman', Times, serif;
+}
+.doing{
+  display: flex;
+  justify-content: cen;
+}
+.align{
+  margin:  20px 120px;
+  padding: 30px;
+
+}
+.align h1{
+  text-align: center;
+}
+.align .img{
+  display: block;
+  margin: 0 auto 30px;
+
+}
+
+.justblue{
+  color: #316dc3;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+.justgreen{
+  color: green;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bolder;
+}
+.card img{
+  width: 100px;
+height: 100px;  
+display: block;
+margin:  0 auto;
+padding: 20px 0px 3px 0px;
+}
+
+.card{
+  width: 400px;
+  height: 200px;
+  margin: 5px 15px 15px;
+  font-size: 14px;
+ box-shadow: 0px 8px 20px 0px rgba(0, 0, 0, 0.16);
+}
+
+.card h5{
+ text-align: center;
+  color: #316dc3;
+}
+
+
+.event{
+  width: 250px;
+  height: 200px;
+}
+.clr{
+  color: #316dc3;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.alignment{
+  margin: 15px 100px;
+}
+
+.box{
+  width: 250px;
+  height: 100px;
+  border: 1px solid #eee;
+  display: flex;
+
+  margin: 10px 5px;
+  background-color: #f7f8fa;
+}
+.box img{
+  width: 32px;
+  height: 32px;
+  margin-top: 10px;
+}
+
+.space{
+  
+padding: 20px 0px 0px 30px;
+
+}
+.blueclr{
+  color: #316dc3;
+}
+.greenclr{
+  color: green;
+}
+.galleryheading{
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+  font-size: 30px;
+ font-family: 'Times New Roman', Times, serif;
+  margin-top: 100px;
+}
+.gallerylogo{
+  text-align: center;
+  margin-top: 20px;
+}
+.gallerylogo img{
+  width: 50px;
+}
+.gallery{
+ margin: 50px 100px 200px;
+}
+.gallery img{
+  width: 300px;
+}
+.footer{
+ background-color: #25272e;
+ padding: 100px;
+ 
+}
+.office{
+  color: #BBBBBB;
+  font-size: 20px;
+  font-family: sans-serif;
+  /* margin: 100px 30px 50px; */
+ 
+}
+.links{
+  color: #BBBBBB;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  /* margin: 100px 50px; */
+}
+.links ul{
+  color: green;
+}
+.contact{
+  color: #BBBBBB;
+  font-size: 20px;
+  font-family: 'Times New Roman', Times, serif;
+
+}
+.copyright{
+  background-color: #316dc3;
+  
+}
+.copyright p{
+  margin-left: 50px;
+  font-size: 20px;
+  color: aliceblue;
+}
+
+  
